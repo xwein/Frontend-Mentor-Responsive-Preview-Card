@@ -167,7 +167,7 @@
     }
     
     .content{
-      gap: 1.2rem;
+      gap: 1.6rem;
       height: 480px;
       width: 600px;
       border-radius: 0px;
@@ -185,5 +185,8 @@
       border-radius: 0px;
       border-top-left-radius: 10px;
       border-bottom-left-radius: 10px;
+    }
+    h1{
+      line-height: 2.4rem;
     }
   }
